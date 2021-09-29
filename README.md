@@ -6,7 +6,7 @@ Requires [LeoCAD](https://www.leocad.org) to be isntalled and accessible from th
 
 ## Example usage
 ```
-$ python3 generate-images.py --csv-template
+$ python3 generate_images.py --csv-template
 $ cat template.csv
 File Name,Number,Color Code,Latitude,Longitude
 ```
